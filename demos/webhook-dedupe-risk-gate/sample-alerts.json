@@ -1,0 +1,43 @@
+[
+  {
+    "secret": "demo-secret",
+    "strategy": "breakout-demo",
+    "symbol": "BTCUSDT",
+    "action": "buy",
+    "quantity": 0.05,
+    "barTime": "2026-06-30T09:30:00Z"
+  },
+  {
+    "secret": "demo-secret",
+    "strategy": "breakout-demo",
+    "symbol": "BTCUSDT",
+    "action": "buy",
+    "quantity": 0.05,
+    "barTime": "2026-06-30T09:30:00Z"
+  },
+  {
+    "secret": "wrong-secret",
+    "strategy": "breakout-demo",
+    "symbol": "ETHUSDT",
+    "action": "sell",
+    "quantity": 0.25,
+    "barTime": "2026-06-30T09:31:00Z"
+  },
+  {
+    "secret": "demo-secret",
+    "strategy": "breakout-demo",
+    "symbol": "ETHUSDT",
+    "action": "sell",
+    "quantity": 5,
+    "barTime": "2026-06-30T09:32:00Z"
+  },
+  {
+    "secret": "demo-secret",
+    "strategy": "breakout-demo",
+    "symbol": "AAPL",
+    "action": "buy",
+    "quantity": 2,
+    "barTime": "2026-06-30T09:33:00Z"
+  }
+]
+
